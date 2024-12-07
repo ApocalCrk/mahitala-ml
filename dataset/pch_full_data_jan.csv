@@ -1,107 +1,107 @@
-﻿LAT,LON,KelasCH,Bulan,Id Kabkot,Id Prov,KategoriCH,CH,KategoriSH,KelasSH,SH
--8.15,110.65,400 - 500 mm,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Tinggi,454.1781,Normal,85% - 115%,114.1795
--8.15,110.7,400 - 500 mm,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Tinggi,429.9354,Normal,85% - 115%,112.8328
--8.15,110.75,400 - 500 mm,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Tinggi,401.0138,Normal,85% - 115%,111.1985
--8.1,110.45,300 - 400 mm,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Tinggi,393.0555,Normal,85% - 115%,106.007
--8.1,110.5,400 - 500 mm,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Tinggi,401.8376,Normal,85% - 115%,107.2446
--8.1,110.55,400 - 500 mm,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Tinggi,418.3039,Normal,85% - 115%,108.6607
--8.1,110.6,400 - 500 mm,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Tinggi,439.6957,Normal,85% - 115%,108.9352
--8.1,110.65,400 - 500 mm,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Tinggi,442.0847,Normal,85% - 115%,108.5823
--8.1,110.7,400 - 500 mm,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Tinggi,412.6432,Normal,85% - 115%,107.3165
--8.1,110.75,300 - 400 mm,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Tinggi,381.8504,Normal,85% - 115%,105.6723
--8.05,110.4,300 - 400 mm,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Tinggi,363.1525,Normal,85% - 115%,100.9878
--8.05,110.45,300 - 400 mm,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Tinggi,383.8304,Normal,85% - 115%,102.2214
--8.05,110.5,300 - 400 mm,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Tinggi,377.6022,Normal,85% - 115%,103.3731
--8.05,110.55,300 - 400 mm,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Tinggi,379.2738,Normal,85% - 115%,103.9508
--8.05,110.6,300 - 400 mm,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Tinggi,396.704,Normal,85% - 115%,104.0926
--8.05,110.65,300 - 400 mm,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Tinggi,390.3106,Normal,85% - 115%,103.6112
--8.05,110.7,300 - 400 mm,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Tinggi,376.33,Normal,85% - 115%,102.8564
--8.05,110.75,300 - 400 mm,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Tinggi,351.5843,Normal,85% - 115%,101.5452
--8,110.25,400 - 500 mm,JAN,Bantul,Daerah Istimewa Yogyakarta,Tinggi,444.554,Normal,85% - 115%,102.7839
--8,110.3,400 - 500 mm,JAN,Bantul,Daerah Istimewa Yogyakarta,Tinggi,438.4944,Normal,85% - 115%,100.7342
--8,110.35,300 - 400 mm,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Tinggi,369.362,Normal,85% - 115%,98.3871
--8,110.4,300 - 400 mm,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Tinggi,357.394,Normal,85% - 115%,98.08
--8,110.45,300 - 400 mm,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Tinggi,360.638,Normal,85% - 115%,99.4197
--8,110.5,300 - 400 mm,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Tinggi,349.0172,Normal,85% - 115%,100.4895
--8,110.55,300 - 400 mm,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Tinggi,346.7476,Normal,85% - 115%,100.9599
--8,110.6,300 - 400 mm,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Tinggi,347.4088,Normal,85% - 115%,101.344
--8,110.65,300 - 400 mm,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Tinggi,342.695,Normal,85% - 115%,100.7061
--8,110.7,300 - 400 mm,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Tinggi,340.3025,Normal,85% - 115%,100.9105
--8,110.75,300 - 400 mm,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Tinggi,313.1844,Normal,85% - 115%,99.9263
--7.95,110.25,400 - 500 mm,JAN,Bantul,Daerah Istimewa Yogyakarta,Tinggi,457.1695,Normal,85% - 115%,102.0951
--7.95,110.3,400 - 500 mm,JAN,Bantul,Daerah Istimewa Yogyakarta,Tinggi,436.9839,Normal,85% - 115%,99.8509
--7.95,110.35,300 - 400 mm,JAN,Bantul,Daerah Istimewa Yogyakarta,Tinggi,371.045,Normal,85% - 115%,97.4315
--7.95,110.4,300 - 400 mm,JAN,Bantul,Daerah Istimewa Yogyakarta,Tinggi,340.9768,Normal,85% - 115%,97.609
--7.95,110.45,300 - 400 mm,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Tinggi,352.2976,Normal,85% - 115%,99.5451
--7.95,110.5,300 - 400 mm,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Tinggi,346.6039,Normal,85% - 115%,100.1936
--7.95,110.55,300 - 400 mm,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Tinggi,347.7977,Normal,85% - 115%,101.2452
--7.95,110.6,300 - 400 mm,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Tinggi,353.9342,Normal,85% - 115%,101.488
--7.95,110.65,300 - 400 mm,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Tinggi,338.942,Normal,85% - 115%,101.5395
--7.95,110.7,300 - 400 mm,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Tinggi,301.8324,Normal,85% - 115%,100.6378
--7.95,110.75,200 - 300 mm,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Menengah,283.5231,Normal,85% - 115%,100.1088
--7.95,110.15,300 - 400 mm,JAN,Kulon Progo,Daerah Istimewa Yogyakarta,Tinggi,324.1515,Normal,85% - 115%,104.8687
--7.95,110.2,300 - 400 mm,JAN,Kulon Progo,Daerah Istimewa Yogyakarta,Tinggi,367.2329,Normal,85% - 115%,103.2863
--7.9,110.3,300 - 400 mm,JAN,Bantul,Daerah Istimewa Yogyakarta,Tinggi,377.7941,Normal,85% - 115%,100.0694
--7.9,110.35,300 - 400 mm,JAN,Bantul,Daerah Istimewa Yogyakarta,Tinggi,354.5496,Normal,85% - 115%,99.1815
--7.9,110.4,300 - 400 mm,JAN,Bantul,Daerah Istimewa Yogyakarta,Tinggi,365.0347,Normal,85% - 115%,100.7572
--7.9,110.45,300 - 400 mm,JAN,Bantul,Daerah Istimewa Yogyakarta,Tinggi,353.7759,Normal,85% - 115%,101.0233
--7.9,110.5,300 - 400 mm,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Tinggi,343.5435,Normal,85% - 115%,101.4239
--7.9,110.55,300 - 400 mm,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Tinggi,350.1715,Normal,85% - 115%,102.1632
--7.9,110.6,300 - 400 mm,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Tinggi,345.5254,Normal,85% - 115%,103.1747
--7.9,110.65,300 - 400 mm,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Tinggi,312.835,Normal,85% - 115%,102.7464
--7.9,110.7,200 - 300 mm,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Menengah,274.8334,Normal,85% - 115%,101.0491
--7.9,110.75,200 - 300 mm,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Menengah,270.0946,Normal,85% - 115%,100.867
--7.9,110.05,300 - 400 mm,JAN,Kulon Progo,Daerah Istimewa Yogyakarta,Tinggi,370.7558,Normal,85% - 115%,107.043
--7.9,110.1,300 - 400 mm,JAN,Kulon Progo,Daerah Istimewa Yogyakarta,Tinggi,349.2118,Normal,85% - 115%,105.9137
--7.9,110.15,300 - 400 mm,JAN,Kulon Progo,Daerah Istimewa Yogyakarta,Tinggi,317.4868,Normal,85% - 115%,103.8736
--7.9,110.2,300 - 400 mm,JAN,Kulon Progo,Daerah Istimewa Yogyakarta,Tinggi,357.5618,Normal,85% - 115%,103.5002
--7.9,110.25,300 - 400 mm,JAN,Kulon Progo,Daerah Istimewa Yogyakarta,Tinggi,376.9986,Normal,85% - 115%,102.0796
--7.85,110.25,300 - 400 mm,JAN,Bantul,Daerah Istimewa Yogyakarta,Tinggi,313.4436,Normal,85% - 115%,101.9143
--7.85,110.3,300 - 400 mm,JAN,Bantul,Daerah Istimewa Yogyakarta,Tinggi,346.8085,Normal,85% - 115%,101.5925
--7.85,110.35,300 - 400 mm,JAN,Bantul,Daerah Istimewa Yogyakarta,Tinggi,352.8072,Normal,85% - 115%,102.4852
--7.85,110.4,300 - 400 mm,JAN,Bantul,Daerah Istimewa Yogyakarta,Tinggi,351.334,Normal,85% - 115%,102.7056
--7.85,110.45,300 - 400 mm,JAN,Bantul,Daerah Istimewa Yogyakarta,Tinggi,352.4154,Normal,85% - 115%,103.7571
--7.85,110.5,300 - 400 mm,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Tinggi,329.0415,Normal,85% - 115%,104.1643
--7.85,110.55,300 - 400 mm,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Tinggi,329.0849,Normal,85% - 115%,105.4874
--7.85,110.6,300 - 400 mm,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Tinggi,324.5318,Normal,85% - 115%,105.8224
--7.85,110.65,200 - 300 mm,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Menengah,297.8553,Normal,85% - 115%,104.627
--7.85,110.7,200 - 300 mm,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Menengah,272.5739,Normal,85% - 115%,102.8579
--7.85,110.75,200 - 300 mm,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Menengah,288.79,Normal,85% - 115%,103.773
--7.85,110.05,300 - 400 mm,JAN,Kulon Progo,Daerah Istimewa Yogyakarta,Tinggi,385.2964,Normal,85% - 115%,106.0018
--7.85,110.1,300 - 400 mm,JAN,Kulon Progo,Daerah Istimewa Yogyakarta,Tinggi,369.9799,Normal,85% - 115%,104.6361
--7.85,110.15,300 - 400 mm,JAN,Kulon Progo,Daerah Istimewa Yogyakarta,Tinggi,334.9212,Normal,85% - 115%,103.6034
--7.85,110.2,200 - 300 mm,JAN,Kulon Progo,Daerah Istimewa Yogyakarta,Menengah,292.5637,Normal,85% - 115%,102.6523
--7.8,110.4,300 - 400 mm,JAN,Bantul,Daerah Istimewa Yogyakarta,Tinggi,364.3635,Normal,85% - 115%,105.3866
--7.8,110.55,300 - 400 mm,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Tinggi,334.2584,Normal,85% - 115%,109.4556
--7.8,110.6,300 - 400 mm,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Tinggi,324.4289,Normal,85% - 115%,109.019
--7.8,110.65,300 - 400 mm,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Tinggi,308.2268,Normal,85% - 115%,107.1825
--7.8,110.35,300 - 400 mm,JAN,Kota Yogyakarta,Daerah Istimewa Yogyakarta,Tinggi,348.9272,Normal,85% - 115%,103.8053
--7.8,110.1,300 - 400 mm,JAN,Kulon Progo,Daerah Istimewa Yogyakarta,Tinggi,376.7334,Normal,85% - 115%,103.3724
--7.8,110.15,300 - 400 mm,JAN,Kulon Progo,Daerah Istimewa Yogyakarta,Tinggi,322.4815,Normal,85% - 115%,101.9908
--7.8,110.2,200 - 300 mm,JAN,Kulon Progo,Daerah Istimewa Yogyakarta,Menengah,284.5405,Normal,85% - 115%,101.0411
--7.8,110.25,300 - 400 mm,JAN,Sleman,Daerah Istimewa Yogyakarta,Tinggi,305.803,Normal,85% - 115%,101.7376
--7.8,110.3,300 - 400 mm,JAN,Sleman,Daerah Istimewa Yogyakarta,Tinggi,323.3278,Normal,85% - 115%,102.9783
--7.8,110.45,300 - 400 mm,JAN,Sleman,Daerah Istimewa Yogyakarta,Tinggi,357.9211,Normal,85% - 115%,107.4302
--7.8,110.5,300 - 400 mm,JAN,Sleman,Daerah Istimewa Yogyakarta,Tinggi,338.8608,Normal,85% - 115%,109.0355
--7.75,110.15,300 - 400 mm,JAN,Kulon Progo,Daerah Istimewa Yogyakarta,Tinggi,343.2994,Normal,85% - 115%,102.7312
--7.75,110.2,300 - 400 mm,JAN,Kulon Progo,Daerah Istimewa Yogyakarta,Tinggi,309.1099,Normal,85% - 115%,102.2484
--7.75,110.25,300 - 400 mm,JAN,Sleman,Daerah Istimewa Yogyakarta,Tinggi,333.9256,Normal,85% - 115%,103.4458
--7.75,110.3,300 - 400 mm,JAN,Sleman,Daerah Istimewa Yogyakarta,Tinggi,370.3397,Normal,85% - 115%,104.6808
--7.75,110.35,300 - 400 mm,JAN,Sleman,Daerah Istimewa Yogyakarta,Tinggi,386.5009,Normal,85% - 115%,107.6105
--7.75,110.4,400 - 500 mm,JAN,Sleman,Daerah Istimewa Yogyakarta,Tinggi,408.7582,Normal,85% - 115%,108.7896
--7.75,110.45,300 - 400 mm,JAN,Sleman,Daerah Istimewa Yogyakarta,Tinggi,387.8052,Normal,85% - 115%,110.4209
--7.7,110.15,300 - 400 mm,JAN,Kulon Progo,Daerah Istimewa Yogyakarta,Tinggi,395.7918,Normal,85% - 115%,105.126
--7.7,110.2,300 - 400 mm,JAN,Kulon Progo,Daerah Istimewa Yogyakarta,Tinggi,382.2669,Normal,85% - 115%,105.4605
--7.7,110.25,300 - 400 mm,JAN,Kulon Progo,Daerah Istimewa Yogyakarta,Tinggi,394.0948,Normal,85% - 115%,106.2827
--7.7,110.3,400 - 500 mm,JAN,Sleman,Daerah Istimewa Yogyakarta,Tinggi,411.2585,Normal,85% - 115%,110.2894
--7.7,110.35,400 - 500 mm,JAN,Sleman,Daerah Istimewa Yogyakarta,Tinggi,451.0178,Normal,85% - 115%,110.729
--7.7,110.4,400 - 500 mm,JAN,Sleman,Daerah Istimewa Yogyakarta,Tinggi,448.2849,Normal,85% - 115%,111.2871
--7.7,110.45,400 - 500 mm,JAN,Sleman,Daerah Istimewa Yogyakarta,Tinggi,435.2106,Normal,85% - 115%,112.1863
--7.65,110.15,400 - 500 mm,JAN,Kulon Progo,Daerah Istimewa Yogyakarta,Tinggi,461.2823,Normal,85% - 115%,108.4258
--7.65,110.25,400 - 500 mm,JAN,Kulon Progo,Daerah Istimewa Yogyakarta,Tinggi,413.1164,Normal,85% - 115%,111.1507
--7.65,110.35,400 - 500 mm,JAN,Sleman,Daerah Istimewa Yogyakarta,Tinggi,473.2685,Normal,85% - 115%,113.2788
--7.65,110.4,400 - 500 mm,JAN,Sleman,Daerah Istimewa Yogyakarta,Tinggi,480.2586,Normal,85% - 115%,112.586
--7.65,110.45,400 - 500 mm,JAN,Sleman,Daerah Istimewa Yogyakarta,Tinggi,469.3337,Normal,85% - 115%,111.7889
--7.6,110.4,400 - 500 mm,JAN,Sleman,Daerah Istimewa Yogyakarta,Tinggi,480.2144,Normal,85% - 115%,111.8258
--7.6,110.45,400 - 500 mm,JAN,Sleman,Daerah Istimewa Yogyakarta,Tinggi,479.4522,Normal,85% - 115%,111.3926
--7.55,110.45,400 - 500 mm,JAN,Sleman,Daerah Istimewa Yogyakarta,Tinggi,482.9361,Normal,85% - 115%,110.4115
+﻿LAT,LON,KelasSH,Bulan,Id Kabkot,Id Prov,KategoriSH,SH,CH,KelasCH,KategoriCH
+-8.15,110.65,85% - 115%,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Normal,114.4883,455.4063,400 - 500 mm,Tinggi
+-8.15,110.7,85% - 115%,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Normal,113.207,431.3611,400 - 500 mm,Tinggi
+-8.15,110.75,85% - 115%,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Normal,111.706,402.844,400 - 500 mm,Tinggi
+-8.1,110.45,85% - 115%,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Normal,107.853,399.9005,300 - 400 mm,Tinggi
+-8.1,110.5,85% - 115%,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Normal,109.0243,408.5059,400 - 500 mm,Tinggi
+-8.1,110.55,85% - 115%,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Normal,110.3429,424.78,400 - 500 mm,Tinggi
+-8.1,110.6,85% - 115%,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Normal,110.6008,446.4184,400 - 500 mm,Tinggi
+-8.1,110.65,85% - 115%,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Normal,110.2695,448.9541,400 - 500 mm,Tinggi
+-8.1,110.7,85% - 115%,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Normal,109.0584,419.341,400 - 500 mm,Tinggi
+-8.1,110.75,85% - 115%,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Normal,107.5146,388.5075,300 - 400 mm,Tinggi
+-8.05,110.4,85% - 115%,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Normal,103.5805,372.4759,300 - 400 mm,Tinggi
+-8.05,110.45,85% - 115%,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Normal,104.9971,394.253,300 - 400 mm,Tinggi
+-8.05,110.5,85% - 115%,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Normal,106.2326,388.0473,300 - 400 mm,Tinggi
+-8.05,110.55,85% - 115%,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Normal,106.8742,389.9398,300 - 400 mm,Tinggi
+-8.05,110.6,85% - 115%,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Normal,107.0422,407.9454,400 - 500 mm,Tinggi
+-8.05,110.65,85% - 115%,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Normal,106.5661,401.4418,400 - 500 mm,Tinggi
+-8.05,110.7,85% - 115%,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Normal,105.8339,387.2239,300 - 400 mm,Tinggi
+-8.05,110.75,85% - 115%,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Normal,104.5818,362.0981,300 - 400 mm,Tinggi
+-8,110.25,85% - 115%,JAN,Bantul,Daerah Istimewa Yogyakarta,Normal,103.4972,447.6389,400 - 500 mm,Tinggi
+-8,110.3,85% - 115%,JAN,Bantul,Daerah Istimewa Yogyakarta,Normal,102.6618,446.8851,400 - 500 mm,Tinggi
+-8,110.35,85% - 115%,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Normal,101.2283,380.0285,300 - 400 mm,Tinggi
+-8,110.4,85% - 115%,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Normal,101.461,369.7139,300 - 400 mm,Tinggi
+-8,110.45,85% - 115%,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Normal,103.089,373.9481,300 - 400 mm,Tinggi
+-8,110.5,85% - 115%,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Normal,104.3325,362.3645,300 - 400 mm,Tinggi
+-8,110.55,85% - 115%,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Normal,104.8765,360.1992,300 - 400 mm,Tinggi
+-8,110.6,85% - 115%,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Normal,105.2847,360.9178,300 - 400 mm,Tinggi
+-8,110.65,85% - 115%,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Normal,104.6183,356.0078,300 - 400 mm,Tinggi
+-8,110.7,85% - 115%,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Normal,104.8477,353.58,300 - 400 mm,Tinggi
+-8,110.75,85% - 115%,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Normal,103.897,325.6293,300 - 400 mm,Tinggi
+-7.95,110.25,85% - 115%,JAN,Bantul,Daerah Istimewa Yogyakarta,Normal,104.0342,465.8529,400 - 500 mm,Tinggi
+-7.95,110.3,85% - 115%,JAN,Bantul,Daerah Istimewa Yogyakarta,Normal,102.9975,450.7544,400 - 500 mm,Tinggi
+-7.95,110.35,85% - 115%,JAN,Bantul,Daerah Istimewa Yogyakarta,Normal,101.2775,385.6916,300 - 400 mm,Tinggi
+-7.95,110.4,85% - 115%,JAN,Bantul,Daerah Istimewa Yogyakarta,Normal,101.6938,355.2464,300 - 400 mm,Tinggi
+-7.95,110.45,85% - 115%,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Normal,103.9185,367.7752,300 - 400 mm,Tinggi
+-7.95,110.5,85% - 115%,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Normal,104.7021,362.2005,300 - 400 mm,Tinggi
+-7.95,110.55,85% - 115%,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Normal,105.8328,363.557,300 - 400 mm,Tinggi
+-7.95,110.6,85% - 115%,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Normal,106.0752,369.9316,300 - 400 mm,Tinggi
+-7.95,110.65,85% - 115%,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Normal,106.1097,354.1975,300 - 400 mm,Tinggi
+-7.95,110.7,85% - 115%,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Normal,105.1809,315.4581,300 - 400 mm,Tinggi
+-7.95,110.75,85% - 115%,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Normal,104.7419,296.6449,200 - 300 mm,Menengah
+-7.95,110.15,85% - 115%,JAN,Kulon Progo,Daerah Istimewa Yogyakarta,Normal,103.9675,321.3659,300 - 400 mm,Tinggi
+-7.95,110.2,85% - 115%,JAN,Kulon Progo,Daerah Istimewa Yogyakarta,Normal,103.8081,369.0882,300 - 400 mm,Tinggi
+-7.9,110.3,85% - 115%,JAN,Bantul,Daerah Istimewa Yogyakarta,Normal,104.4967,394.5085,300 - 400 mm,Tinggi
+-7.9,110.35,85% - 115%,JAN,Bantul,Daerah Istimewa Yogyakarta,Normal,103.777,370.9776,300 - 400 mm,Tinggi
+-7.9,110.4,85% - 115%,JAN,Bantul,Daerah Istimewa Yogyakarta,Normal,105.574,382.4855,300 - 400 mm,Tinggi
+-7.9,110.45,85% - 115%,JAN,Bantul,Daerah Istimewa Yogyakarta,Normal,106.0051,371.2217,300 - 400 mm,Tinggi
+-7.9,110.5,85% - 115%,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Normal,106.4773,360.6605,300 - 400 mm,Tinggi
+-7.9,110.55,85% - 115%,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Normal,107.2398,367.5719,300 - 400 mm,Tinggi
+-7.9,110.6,85% - 115%,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Normal,108.2621,362.5627,300 - 400 mm,Tinggi
+-7.9,110.65,85% - 115%,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Normal,107.7993,328.2199,300 - 400 mm,Tinggi
+-7.9,110.7,85% - 115%,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Normal,106.1195,288.6238,200 - 300 mm,Menengah
+-7.9,110.75,85% - 115%,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Normal,106.1758,284.3099,200 - 300 mm,Menengah
+-7.9,110.05,85% - 115%,JAN,Kulon Progo,Daerah Istimewa Yogyakarta,Normal,105.2872,364.6745,300 - 400 mm,Tinggi
+-7.9,110.1,85% - 115%,JAN,Kulon Progo,Daerah Istimewa Yogyakarta,Normal,105.315,347.2378,300 - 400 mm,Tinggi
+-7.9,110.15,85% - 115%,JAN,Kulon Progo,Daerah Istimewa Yogyakarta,Normal,104.6907,319.9843,300 - 400 mm,Tinggi
+-7.9,110.2,85% - 115%,JAN,Kulon Progo,Daerah Istimewa Yogyakarta,Normal,105.8236,365.5882,300 - 400 mm,Tinggi
+-7.9,110.25,85% - 115%,JAN,Kulon Progo,Daerah Istimewa Yogyakarta,Normal,105.7445,390.5337,300 - 400 mm,Tinggi
+-7.85,110.25,85% - 115%,JAN,Bantul,Daerah Istimewa Yogyakarta,Normal,106.8822,328.7229,300 - 400 mm,Tinggi
+-7.85,110.3,85% - 115%,JAN,Bantul,Daerah Istimewa Yogyakarta,Normal,106.7509,364.418,300 - 400 mm,Tinggi
+-7.85,110.35,85% - 115%,JAN,Bantul,Daerah Istimewa Yogyakarta,Normal,107.7624,370.9738,300 - 400 mm,Tinggi
+-7.85,110.4,85% - 115%,JAN,Bantul,Daerah Istimewa Yogyakarta,Normal,108.083,369.7287,300 - 400 mm,Tinggi
+-7.85,110.45,85% - 115%,JAN,Bantul,Daerah Istimewa Yogyakarta,Normal,109.2822,371.1814,300 - 400 mm,Tinggi
+-7.85,110.5,85% - 115%,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Normal,109.7023,346.5354,300 - 400 mm,Tinggi
+-7.85,110.55,85% - 115%,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Normal,111.0415,346.4117,300 - 400 mm,Tinggi
+-7.85,110.6,85% - 115%,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Normal,111.3595,341.5127,300 - 400 mm,Tinggi
+-7.85,110.65,85% - 115%,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Normal,110.1876,313.6855,300 - 400 mm,Tinggi
+-7.85,110.7,85% - 115%,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Normal,108.5615,287.6883,200 - 300 mm,Menengah
+-7.85,110.75,85% - 115%,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Normal,109.785,305.5207,300 - 400 mm,Tinggi
+-7.85,110.05,85% - 115%,JAN,Kulon Progo,Daerah Istimewa Yogyakarta,Normal,106.0616,385.5139,300 - 400 mm,Tinggi
+-7.85,110.1,85% - 115%,JAN,Kulon Progo,Daerah Istimewa Yogyakarta,Normal,105.9519,374.6325,300 - 400 mm,Tinggi
+-7.85,110.15,85% - 115%,JAN,Kulon Progo,Daerah Istimewa Yogyakarta,Normal,106.3864,343.9178,300 - 400 mm,Tinggi
+-7.85,110.2,85% - 115%,JAN,Kulon Progo,Daerah Istimewa Yogyakarta,Normal,106.8022,304.3911,300 - 400 mm,Tinggi
+-7.8,110.4,85% - 115%,JAN,Bantul,Daerah Istimewa Yogyakarta,Normal,111.2577,384.662,300 - 400 mm,Tinggi
+-7.8,110.55,115% - 150%,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Atas Normal,115.4641,352.6072,300 - 400 mm,Tinggi
+-7.8,110.6,115% - 150%,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Atas Normal,115.0619,342.4118,300 - 400 mm,Tinggi
+-7.8,110.65,85% - 115%,JAN,Gunungkidul,Daerah Istimewa Yogyakarta,Normal,113.3374,325.9267,300 - 400 mm,Tinggi
+-7.8,110.35,85% - 115%,JAN,Kota Yogyakarta,Daerah Istimewa Yogyakarta,Normal,109.5493,368.2351,300 - 400 mm,Tinggi
+-7.8,110.1,85% - 115%,JAN,Kulon Progo,Daerah Istimewa Yogyakarta,Normal,106.6538,388.6921,300 - 400 mm,Tinggi
+-7.8,110.15,85% - 115%,JAN,Kulon Progo,Daerah Istimewa Yogyakarta,Normal,106.5673,336.9519,300 - 400 mm,Tinggi
+-7.8,110.2,85% - 115%,JAN,Kulon Progo,Daerah Istimewa Yogyakarta,Normal,106.4016,299.636,200 - 300 mm,Menengah
+-7.8,110.25,85% - 115%,JAN,Sleman,Daerah Istimewa Yogyakarta,Normal,107.3326,322.6204,300 - 400 mm,Tinggi
+-7.8,110.3,85% - 115%,JAN,Sleman,Daerah Istimewa Yogyakarta,Normal,108.6835,341.2409,300 - 400 mm,Tinggi
+-7.8,110.45,85% - 115%,JAN,Sleman,Daerah Istimewa Yogyakarta,Normal,113.448,377.9702,300 - 400 mm,Tinggi
+-7.8,110.5,115% - 150%,JAN,Sleman,Daerah Istimewa Yogyakarta,Atas Normal,115.0819,357.6515,300 - 400 mm,Tinggi
+-7.75,110.15,85% - 115%,JAN,Kulon Progo,Daerah Istimewa Yogyakarta,Normal,108.4714,362.4813,300 - 400 mm,Tinggi
+-7.75,110.2,85% - 115%,JAN,Kulon Progo,Daerah Istimewa Yogyakarta,Normal,108.1373,326.9128,300 - 400 mm,Tinggi
+-7.75,110.25,85% - 115%,JAN,Sleman,Daerah Istimewa Yogyakarta,Normal,109.418,353.2039,300 - 400 mm,Tinggi
+-7.75,110.3,85% - 115%,JAN,Sleman,Daerah Istimewa Yogyakarta,Normal,110.6672,391.5183,300 - 400 mm,Tinggi
+-7.75,110.35,85% - 115%,JAN,Sleman,Daerah Istimewa Yogyakarta,Normal,113.6991,408.3689,400 - 500 mm,Tinggi
+-7.75,110.4,85% - 115%,JAN,Sleman,Daerah Istimewa Yogyakarta,Normal,114.9349,431.8479,400 - 500 mm,Tinggi
+-7.75,110.45,115% - 150%,JAN,Sleman,Daerah Istimewa Yogyakarta,Atas Normal,116.6354,409.631,400 - 500 mm,Tinggi
+-7.7,110.15,85% - 115%,JAN,Kulon Progo,Daerah Istimewa Yogyakarta,Normal,111.4671,419.6653,400 - 500 mm,Tinggi
+-7.7,110.2,85% - 115%,JAN,Kulon Progo,Daerah Istimewa Yogyakarta,Normal,111.8098,405.2814,400 - 500 mm,Tinggi
+-7.7,110.25,85% - 115%,JAN,Kulon Progo,Daerah Istimewa Yogyakarta,Normal,112.5907,417.4847,400 - 500 mm,Tinggi
+-7.7,110.3,115% - 150%,JAN,Sleman,Daerah Istimewa Yogyakarta,Atas Normal,116.7122,435.2083,400 - 500 mm,Tinggi
+-7.7,110.35,115% - 150%,JAN,Sleman,Daerah Istimewa Yogyakarta,Atas Normal,117.0674,476.8353,400 - 500 mm,Tinggi
+-7.7,110.4,115% - 150%,JAN,Sleman,Daerah Istimewa Yogyakarta,Atas Normal,117.6021,473.7226,400 - 500 mm,Tinggi
+-7.7,110.45,115% - 150%,JAN,Sleman,Daerah Istimewa Yogyakarta,Atas Normal,118.4859,459.6489,400 - 500 mm,Tinggi
+-7.65,110.15,115% - 150%,JAN,Kulon Progo,Daerah Istimewa Yogyakarta,Atas Normal,115.2731,490.4133,400 - 500 mm,Tinggi
+-7.65,110.25,115% - 150%,JAN,Kulon Progo,Daerah Istimewa Yogyakarta,Atas Normal,117.8895,438.1626,400 - 500 mm,Tinggi
+-7.65,110.35,115% - 150%,JAN,Sleman,Daerah Istimewa Yogyakarta,Atas Normal,119.8169,500.5842,> 500 mm,Sangat Tinggi
+-7.65,110.4,115% - 150%,JAN,Sleman,Daerah Istimewa Yogyakarta,Atas Normal,118.9849,507.5544,> 500 mm,Sangat Tinggi
+-7.65,110.45,115% - 150%,JAN,Sleman,Daerah Istimewa Yogyakarta,Atas Normal,118.0734,495.7184,400 - 500 mm,Tinggi
+-7.6,110.4,115% - 150%,JAN,Sleman,Daerah Istimewa Yogyakarta,Atas Normal,118.213,507.6429,> 500 mm,Sangat Tinggi
+-7.6,110.45,115% - 150%,JAN,Sleman,Daerah Istimewa Yogyakarta,Atas Normal,117.7104,506.6452,> 500 mm,Sangat Tinggi
+-7.55,110.45,115% - 150%,JAN,Sleman,Daerah Istimewa Yogyakarta,Atas Normal,116.6899,510.3973,> 500 mm,Sangat Tinggi
