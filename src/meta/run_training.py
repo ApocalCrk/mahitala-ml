@@ -15,7 +15,6 @@ def run_notebook(notebook_path):
 notebooks = [
     "/home/noturminesv/projects/gis-ml/src/meta/PCH_calculation.ipynb",
     "/home/noturminesv/projects/gis-ml/src/meta/combine_ht_ch_psh.ipynb",
-    "/home/noturminesv/projects/gis-ml/src/meta/feature_engineering.ipynb",
     "/home/noturminesv/projects/gis-ml/main.ipynb"
 ]
 
